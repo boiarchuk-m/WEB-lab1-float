@@ -1,0 +1,44 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 750px;
+    margin: 0 auto;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.header{
+    height: 67%;
+}
+.header-image{
+    float:left;
+    width: 25%;
+    height: 100%;
+    background-color: #BBD4ED;
+}
+.header-text{
+    float: right;
+    width: 75%;
+    height: 100%;
+    background-color: #ADE4F6;
+    
+}
+.content{
+    height:17.5%;
+    background-color: #347ECB;
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+}
+.footer{
+    height:15.5%;
+    background-color: #FAF3B4;
+    display: inline-block;
+    width: 100%;
+}
+
+
+
